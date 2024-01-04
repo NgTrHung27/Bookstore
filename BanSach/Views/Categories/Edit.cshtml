@@ -1,0 +1,48 @@
+﻿@model BanSach.Models.Category
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>Loại sản phẩm</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        <div class="control-label col-md-2">
+            <b>Mã loại sách</b>
+        </div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.IDCate, new { htmlAttributes = new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.IDCate, "", new { @class = "text-danger"  })
+        </div>
+    </div>
+
+    @Html.HiddenFor(model => model.IDCate)
+
+    <div class="form-group">
+        <div class="control-label col-md-2">
+            <b>Tên sách</b>
+        </div>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NameCate, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NameCate, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Trở về danh sách", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

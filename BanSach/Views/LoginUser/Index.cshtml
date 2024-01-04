@@ -1,0 +1,92 @@
+﻿@model BanSach.Models.AdminUser
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .field-validation-error {
+        color: red;
+    }
+</style>
+<h2>ĐĂNG NHẬP</h2>
+<hr />
+@using (Html.BeginForm("LoginAcount", "LoginUser"))
+{
+    @Html.AntiForgeryToken()
+    <input type="hidden" value="@Session["chon"]" name="chon" />
+    @*<table>
+            <tr>
+                <td style="padding: 5px">@Html.LabelFor(model => model.ID) </td>
+                <td>@Html.TextBoxFor(model => model.ID, new { style = "filed-validation-error" })</td>
+                <td>@Html.ValidationMessageFor(model => model.ID)</td>
+            </tr>
+            <tr>
+                <td style="padding: 5px">@Html.LabelFor(model => model.PasswordUser)</td>
+                <td>@Html.EditorFor(model => model.PasswordUser)</td>
+                <td>@Html.ValidationMessageFor(model => model.PasswordUser)</td>
+                @if (ViewBag.ErrorInfo == null)
+                {
+                    <p>@ViewBag.ErrorInfo</p>
+                }
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Login" class="btn btn-primary" /></td>
+            </tr>
+        </table>*@
+    <section id="login" class="bg-light">
+        <div class="container py-5 bg-white">
+            <div class="row justify-content-center">
+                <div class=" col-lg-5 d-none d-xl-block">
+                    <div class="card border-0" style="width: 30rem;">
+                        <img src="~/Content/images/logo-sách3.png"
+                             class="card-img-top img-fluid" alt="logo-sách">
+                        <div class="card-body">
+                            <p class="card-text mt-1 fs-4 text-center
+                                    fw-light">WBW</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="card" style="width: 30rem;">
+                        <div class="card-body">
+                            <h3 class="card-title">
+                                Đăng nhập
+                            </h3>
+                            <form class="row g-3">
+                                <div>
+                                    @*<label for="validationDefault01"
+                                               class="form-label">ID</label>
+                                        <input type="text" class="form-control"
+                                               id="validationDefault01" required>*@
+                                    <p>@Html.LabelFor(model => model.NameUser)</p>
+                                    @Html.TextBoxFor(model => model.NameUser, new { style = "filed-validation-error" })
+                                    @Html.ValidationMessageFor(model => model.NameUser)
+                                </div>
+                                <br />
+                                <div class="col-md-12">
+                                    @*<label for="validationDefault03"
+                                               class="form-label">...</label>
+                                        <input type="text" class="form-control"
+                                               id="validationDefault03" required>*@
+                                    <p>@Html.LabelFor(model => model.PasswordUser)</p>
+                                    @Html.EditorFor(model => model.PasswordUser, new { style = "filed-validation-error" })
+                                    @Html.ValidationMessageFor(model => model.PasswordUser)
+                                    @if (ViewBag.ErrorInfo == null)
+                                    {
+                                        <p>@ViewBag.ErrorInfo</p>
+                                    }
+                                </div>
+                                <div class="col-12">
+                                    <input type="submit" value="Login" class="btn btn-primary" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}

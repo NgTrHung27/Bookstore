@@ -1,0 +1,38 @@
+/* .menu-txt-hover:hover {
+    color: blue;
+}
+
+.menu-border>li {
+    border-right: solid 1px #ddd;
+    border-left: solid 1px #ddd;
+} */
+
+.img-content{
+    
+}
+
+.name-size{
+    font-size: 1vw;
+}
+
+.info-size{
+    font-size: 0.8vw;
+}
+
+.content-head{
+    padding-left: 120px;
+}
+
+.account{
+    position: relative;
+    z-index: 1021;
+}
+
+.card-height{
+    height: 100%;
+}
+
+.footer-row{
+    margin-right: 0 ; 
+}
+

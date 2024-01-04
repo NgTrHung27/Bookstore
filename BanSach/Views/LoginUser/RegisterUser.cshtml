@@ -1,0 +1,96 @@
+﻿@model BanSach.Models.AdminUser
+
+@{
+    ViewBag.Title = "RegisterUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .field-validation-error {
+        color: red;
+    }
+</style>
+
+<h2>PHÂN QUYỀN</h2>
+@using (Html.BeginForm("RegisterUser", "LoginUser", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @*<p>@Html.LabelFor(model => model.ID)</p>
+        <p>@Html.EditorFor(model => model.ID)</p>
+        <p>@Html.ValidationMessageFor(model => model.ID)</p>
+
+        if (ViewBag.ErrorRegister != null)
+        {
+            <p>@ViewBag.ErrorRegister</p>
+        }
+
+        <p>@Html.LabelFor(model => model.NameUser)</p>
+        <p>@Html.EditorFor(model => model.NameUser)</p>
+        <p>@Html.ValidationMessageFor(model => model.NameUser)</p>
+
+        <p>@Html.LabelFor(model => model.RoleUser)</p>
+        <p>@Html.EditorFor(model => model.RoleUser)</p>
+        <p>@Html.ValidationMessageFor(model => model.RoleUser)</p>
+
+        <p>@Html.LabelFor(model => Model.PasswordUser)</p>
+        <p>@Html.PasswordFor(model => model.PasswordUser)</p>
+        <p>@Html.ValidationMessageFor(model => model.PasswordUser)</p>
+
+        <p>@Html.LabelFor(model => Model.ConfirmPass)</p>
+        <p>@Html.PasswordFor(model => model.ConfirmPass)</p>
+        <p>@Html.ValidationMessageFor(model => model.ConfirmPass)</p>
+
+        <input type="submit" value="Ghi" class="btn btn-primary" />*@
+    <section id="login" class="bg-light">
+        <div class="container py-5 bg-white">
+            <div class="row justify-content-center">
+                <div class=" col-lg-5 d-none d-xl-block">
+                    <div class="card border-0" style="width: 30rem;">
+                        <img src="~/Content/images/logo-sách3.png"
+                             class="card-img-top img-fluid" alt="logo-sách2">
+                        <div class="card-body">
+                            <p class="card-text mt-1 fs-4 text-center
+                                    fw-light">WBW</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="card" style="width: 30rem;">
+                        <div class="card-body">
+                            <h3 class="card-title">Đăng ký</h3>
+                            <form class="row g-3">
+                                <p>@Html.LabelFor(model => model.ID)</p>
+                                <p>@Html.EditorFor(model => model.ID)</p>
+                                <p>@Html.ValidationMessageFor(model => model.ID)</p>
+
+                                @if (ViewBag.ErrorRegister != null)
+                                {
+                                    <p>@ViewBag.ErrorRegister</p>
+                                }
+
+                                <p>@Html.LabelFor(model => model.NameUser)</p>
+                                <p>@Html.EditorFor(model => model.NameUser)</p>
+                                <p>@Html.ValidationMessageFor(model => model.NameUser)</p>
+
+                                <p>@Html.LabelFor(model => model.RoleUser)</p>
+                                <p>@Html.EditorFor(model => model.RoleUser)</p>
+                                <p>@Html.ValidationMessageFor(model => model.RoleUser)</p>
+
+                                <p>@Html.LabelFor(model => Model.PasswordUser)</p>
+                                <p>@Html.PasswordFor(model => model.PasswordUser)</p>
+                                <p>@Html.ValidationMessageFor(model => model.PasswordUser)</p>
+
+                                <p>@Html.LabelFor(model => Model.ConfirmPass)</p>
+                                <p>@Html.PasswordFor(model => model.ConfirmPass)</p>
+                                <p>@Html.ValidationMessageFor(model => model.ConfirmPass)</p>
+
+                                <input type="submit" value="Đăng ký" class="btn btn-primary" />
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+

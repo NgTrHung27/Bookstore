@@ -1,0 +1,435 @@
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\BanSach.dll.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csc.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csc.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csc.rsp
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csi.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csi.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csi.rsp
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.AppContext.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Console.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Net.Http.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\vbc.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\vbc.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\vbc.rsp
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Antlr3.Runtime.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Newtonsoft.Json.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Helpers.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Optimization.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\WebGrease.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Helpers.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Optimization.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Newtonsoft.Json.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Antlr3.Runtime.pdb
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\BanSach.dll.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csc.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csc.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csc.rsp
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csi.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csi.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\csi.rsp
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.AppContext.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Console.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Net.Http.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\vbc.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\vbc.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\vbc.rsp
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Antlr3.Runtime.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Newtonsoft.Json.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Helpers.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Optimization.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\WebGrease.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\PagedList.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Helpers.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Optimization.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Newtonsoft.Json.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Antlr3.Runtime.pdb
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\Bán Sách\Bán Sách\Bán Sách\BanSach\BanSach\obj\Debug\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\BanSach.dll.config
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\csc.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\csc.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\csc.rsp
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\csi.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\csi.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\csi.rsp
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.AppContext.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Console.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Net.Http.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\vbc.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\vbc.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\vbc.rsp
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Antlr3.Runtime.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\EntityFramework.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Newtonsoft.Json.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\PagedList.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\PagedList.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Helpers.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Optimization.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.WebPages.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\WebGrease.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\EntityFramework.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\PagedList.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\PagedList.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Helpers.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Optimization.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.WebPages.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Newtonsoft.Json.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Antlr3.Runtime.pdb
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\obj\Debug\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach\BanSach\obj\Debug\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\BanSach.dll.config
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\BanSach.pdb
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\csc.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\csc.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\csc.rsp
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\csi.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\csi.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\csi.rsp
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.AppContext.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Console.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Net.Http.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\vbc.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\vbc.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\vbc.rsp
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Antlr3.Runtime.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Newtonsoft.Json.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\PagedList.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\PagedList.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Helpers.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Mvc.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Optimization.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\WebGrease.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\PagedList.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\PagedList.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Helpers.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Mvc.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Optimization.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Newtonsoft.Json.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Antlr3.Runtime.pdb
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.dll
+C:\Users\trung\OneDrive\Máy tính\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.pdb
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\BanSach.dll.config
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\BanSach.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\BanSach.pdb
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\csc.exe
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\csc.exe.config
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\csc.rsp
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\csi.exe
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\csi.exe.config
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\csi.rsp
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.AppContext.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Collections.Immutable.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Console.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.Compression.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Net.Http.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Net.Sockets.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.ValueTuple.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.XPath.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\vbc.exe
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\vbc.exe.config
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\vbc.rsp
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe.config
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Antlr3.Runtime.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.SqlServer.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Newtonsoft.Json.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\PagedList.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\PagedList.Mvc.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Helpers.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Mvc.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Optimization.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Razor.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Deployment.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Razor.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\WebGrease.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\EntityFramework.SqlServer.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\PagedList.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\PagedList.Mvc.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Helpers.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Mvc.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Optimization.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.Razor.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Deployment.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\System.Web.WebPages.Razor.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Newtonsoft.Json.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Antlr3.Runtime.pdb
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.dll
+D:\Works\Năm 2 - HK1\Lập Trình Web\BanSach_21.11\BanSach\BanSach\obj\Debug\BanSach.pdb
